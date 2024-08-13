@@ -14,7 +14,7 @@
 
 <h3 align="left">My projects:</h3>
 
-- 📚 **[MySQL and Descriptive Analysis]()**
+- 📚 **[SQL and Descriptive Analysis](https://github.com/vdiazsuero/SQL1)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
